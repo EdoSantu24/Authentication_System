@@ -1,4 +1,4 @@
-### ⚙️ Setup and Execution Guide
+### Setup and Execution Guide
 
 This project requires several components to be configured and run in a specific order.
 
