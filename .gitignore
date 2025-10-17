@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# General
+*.zip
+*.rar
